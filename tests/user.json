@@ -1,0 +1,163 @@
+{
+  "cookies": [
+    {
+      "name": "UserIdentifier",
+      "value": "LAm_1WCbNdiO8gC_dKE-S",
+      "domain": "client-2-staging-router.evn.cohesive.heave.us",
+      "path": "/",
+      "expires": 1721828286.006113,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1777555429.1687268288",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1695044288,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_33f8566da0",
+      "value": "JTdCJTdE",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1718804288,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_afe6c3ef198f662a821497fa7af61d0d_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%20%22%24device%3A188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b%22%2C%22%24device_id%22%3A%20%22188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1718804289,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.445076202.1687268289",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1721828289.168015,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_7B4W84QDCM",
+      "value": "GS1.1.1687268289.1.0.1687268291.58.0.0",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1721828291.15772,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "navbarState",
+      "value": "Open",
+      "domain": "client-2-staging-router.evn.cohesive.heave.us",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "eea14f1f-8fc3-41ba-b493-2e4038c42980a3aa23",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1721828291.987853,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMP_33f8566da0",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI3YTNhMzIyYS00NWNmLTRjZDItOWZkYS1hNDQ5Zjk0NDgzZTIlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNjg3MjY4Mjg4NzIxJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTY4NzI2ODI5MjQxNSU3RA==",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1718804292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "0e6f0987-3817-4e89-ba51-5a33f02c3d61d3ba23",
+      "domain": ".client-2-staging-router.evn.cohesive.heave.us",
+      "path": "/",
+      "expires": 1718804292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "9436afe2-58ad-4b93-883d-8d175de89a180de661",
+      "domain": ".client-2-staging-router.evn.cohesive.heave.us",
+      "path": "/",
+      "expires": 1687270092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "intercom-id-rs79cuc6",
+      "value": "ae5bcb61-9800-453a-8b2a-22ddf2cc734c",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1710598292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "intercom-session-rs79cuc6",
+      "value": "",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1687873092,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "intercom-device-id-rs79cuc6",
+      "value": "07283c24-f9cd-47da-9198-8b0ade795339",
+      "domain": ".heave.us",
+      "path": "/",
+      "expires": 1710598292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://client-2-staging-router.evn.cohesive.heave.us",
+      "localStorage": [
+        {
+          "name": "intercom.intercom-state-rs79cuc6",
+          "value": "{\"app\":{\"color\":\"#3D1FFF\",\"secondaryColor\":\"#03170E\",\"openConfig\":{\"layout\":\"compact\",\"openTo\":\"home\",\"spaces\":[{\"type\":\"home\",\"label\":\"Home\",\"badge\":null},{\"type\":\"messages\",\"label\":\"Messages\",\"badge\":null},{\"type\":\"help\",\"label\":\"Help\",\"badge\":null}],\"userHasReceivedChecklists\":false,\"userHasLiveNewsfeed\":false,\"userHasTickets\":false},\"selfServeSuggestionsMatch\":false,\"name\":\"Cohesive AI\",\"features\":{\"anonymousInboundMessages\":true,\"googleAnalytics\":false,\"hubspotInstalled\":false,\"inboundMessages\":true,\"marketoEnrichmentInstalled\":false,\"outboundMessages\":true,\"googleAnalytics4Integration\":false,\"waitForOpenContent\":false},\"launcherLogoUrl\":null,\"boundWebEvents\":[],\"helpCenterSiteUrl\":\"https://intercom.help/cohesiveai\",\"inboundConversationsDisabled\":false,\"isInstantBootEnabled\":true,\"alignment\":\"right\",\"horizontalPadding\":20,\"verticalPadding\":60,\"isDeveloperWorkspace\":false,\"customGoogleAnalyticsTrackerId\":null},\"launcher\":{\"isLauncherEnabled\":true},\"launcherDiscoveryMode\":{\"hasDiscoveredLauncher\":false},\"user\":{\"role\":\"user\",\"locale\":\"en\",\"hasConversations\":true},\"message\":{},\"conversations\":{\"byId\":{}},\"openOnBoot\":{\"type\":null,\"metadata\":{}},\"operator\":{\"lastComposerEvent\":0},\"router\":{\"location\":null,\"action\":null,\"previousLocations\":[]}}"
+        },
+        {
+          "name": "AMP_unsent_33f8566da0",
+          "value": "[{\"device_id\":\"7a3a322a-45cf-4cd2-9fda-a449f94483e2\",\"session_id\":1687268288721,\"time\":1687268292415,\"platform\":\"Web\",\"os_name\":\"Chrome Headless\",\"os_version\":\"114.0.5735.35\",\"device_model\":\"Mac OS\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"eceea064-41cd-46a8-8028-611055f57f7f\",\"event_type\":\"Side Navigation - Toggled\",\"event_properties\":{\"user_id\":\"Wz6oxJzGkUlY\",\"user_subscription_type\":\"NA\",\"platform\":\"Web\",\"username\":\"guensh kumar\",\"is_mobile\":false,\"days_since_joining\":29,\"source_url\":\"/\",\"category_type\":\"NA\",\"template_type\":\"Default\",\"page_type\":\"Home Page\",\"is_logged_in\":true,\"email\":\"gunesh.p+1@cohesive.so\",\"total_words_used\":0,\"is_own_workspace\":false,\"Source Path\":\"/\",\"to_state\":\"Expand\"},\"event_id\":8,\"library\":\"amplitude-ts-gtm/3.1.5\"}]"
+        },
+        {
+          "name": "__mpq_afe6c3ef198f662a821497fa7af61d0d_ev",
+          "value": "[{\"id\":\"6y80meukv2h4kefl\",\"flushAfter\":1687268299074,\"payload\":{\"event\":\"Mixpanel Page View\",\"properties\":{\"$os\":\"Mac OS X\",\"$browser\":\"Chrome\",\"$current_url\":\"https://client-2-staging-router.evn.cohesive.heave.us/\",\"$browser_version\":114,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.47.0\",\"$insert_id\":\"rndkuf4hnh1uu4qg\",\"time\":1687268289.074,\"distinct_id\":\"$device:188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$device_id\":\"188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"token\":\"afe6c3ef198f662a821497fa7af61d0d\"}}},{\"id\":\"gv9t9swkefutnxbt\",\"flushAfter\":1687268299076,\"payload\":{\"event\":\"Page - Page Viewed\",\"properties\":{\"$os\":\"Mac OS X\",\"$browser\":\"Chrome\",\"$current_url\":\"https://client-2-staging-router.evn.cohesive.heave.us/\",\"$browser_version\":114,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.47.0\",\"$insert_id\":\"i9v5ewlbxr8kyu05\",\"time\":1687268289.076,\"distinct_id\":\"$device:188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$device_id\":\"188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"is_logged_in\":false,\"user_subscription_type\":\"NA\",\"category_type\":\"NA\",\"template_type\":\"NA\",\"platform\":\"Web\",\"username\":\"NA\",\"is_mobile\":false,\"days_since_joining\":0,\"page_type\":\"Landing Page\",\"source_url\":\"/\",\"token\":\"afe6c3ef198f662a821497fa7af61d0d\"}}},{\"id\":\"9ax0sieqv8xk4y8f\",\"flushAfter\":1687268299806,\"payload\":{\"event\":\"Login - Started\",\"properties\":{\"$os\":\"Mac OS X\",\"$browser\":\"Chrome\",\"$current_url\":\"https://client-2-staging-router.evn.cohesive.heave.us/\",\"$browser_version\":114,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.47.0\",\"$insert_id\":\"03btmkjkevzqssz5\",\"time\":1687268289.806,\"distinct_id\":\"$device:188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$device_id\":\"188d906ea2d1b4b-063195023925-306a7725-e1000-188d906ea2d1b4b\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"user_subscription_type\":\"NA\",\"platform\":\"Web\",\"username\":\"NA\",\"page_type\":\"Landing Page\",\"source_url\":\"/\",\"page_section\":\"Header\",\"is_mobile\":false,\"days_since_joining\":0,\"token\":\"afe6c3ef198f662a821497fa7af61d0d\"}}}]"
+        }
+      ]
+    }
+  ]
+}
