@@ -1,0 +1,2 @@
+# atmagic-automation
+automation repo
